@@ -18,7 +18,7 @@
 
 #### Main Stack:
 
-![Java](https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667)&nbsp;
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
