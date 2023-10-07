@@ -18,7 +18,7 @@
 
 #### Main Stack:
 
-![Java]([<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />))&nbsp;
+<img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
