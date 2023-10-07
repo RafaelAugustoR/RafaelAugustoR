@@ -1,5 +1,11 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java with Spring Framework. To frontend development using Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I’m a <strong>back-end developer<strong> focused on web development with Spring Boot.</p>&nbsp;
+<p align="center">Olá, eu sou o Rafael <br><br> Sou um estudante do ensino médio técnico em informática. Tenho um grande interesse pela programação, com foco especial no desenvolvimento de backend utilizando Java com o Spring Framework.
+
+Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando. Também tenho interesse em desenvolvimento de frontend usando Angular.
+
+O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot.
+
+Estou sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=radical&mode=weekly" />
@@ -11,7 +17,7 @@
 
 
 
-## My Skills
+## Skills
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
