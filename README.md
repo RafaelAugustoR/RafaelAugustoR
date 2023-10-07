@@ -18,7 +18,7 @@
 
 #### Main Stack:
 
-![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/any_text-you_like-blue?logo=openjdk&logoColor=lightgreen)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
