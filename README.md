@@ -1,14 +1,14 @@
 
 <p align="center"> <strong>Olá, eu sou o Rafael</strong> <br><br> </p>
  
-<p align = "left"> Sou um estudante do ensino médio técnico em informática. Tenho um grande interesse pela programação, com foco especial no desenvolvimento de backend utilizando Java com o Spring Framework.
+<strong> <p align = "left"> Sou um estudante do ensino médio técnico em informática. Tenho um grande interesse pela programação, com foco especial no desenvolvimento de backend utilizando Java com o Spring Framework.
 
 <p align = "left"> Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando. Também tenho interesse em desenvolvimento de frontend usando Angular.
 
 <p align = "left"> O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot.
 
 <p align = "left"> Estou sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.&nbsp;
-
+</strong>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-RafaelAugustoR.vercel.app/api/top-langs/?username=RafaelAugustoR&show_icons=true&theme=radical&layout=compact" />
