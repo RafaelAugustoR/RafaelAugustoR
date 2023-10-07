@@ -5,9 +5,7 @@
 
 <p align = "left"> Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando. Também tenho interesse em desenvolvimento de frontend usando Angular.
 
-<p align = "left"> O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot.
-
-<p align = "left"> Estou sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.&nbsp;
+<p align = "left"> O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot, e sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.
 </strong>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=radical&mode=weekly" />
