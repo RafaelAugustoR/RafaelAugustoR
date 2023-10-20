@@ -3,7 +3,7 @@
  
 <strong> <p align = "left"> Sou um estudante do ensino médio técnico em informática. Tenho um grande interesse pela programação, com foco especial no desenvolvimento de backend utilizando Java com o Spring Framework.
 
-<p align = "left"> Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando. Também tenho interesse em desenvolvimento de frontend usando Angular.
+<p align = "left"> Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando.
 
 <p align = "left"> O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot, e sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.
 </strong>
@@ -26,7 +26,6 @@
 
 <img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 
 #### Databases:
