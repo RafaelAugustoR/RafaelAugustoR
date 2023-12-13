@@ -17,20 +17,20 @@
 
 
 
-## Skills
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
+### Languages:
 
 <img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+<img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
+<img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
 
 
-#### Databases:
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+### Databases:
+
+<img heigth=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+<img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
 
 ## Contacts:
 
