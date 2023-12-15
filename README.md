@@ -3,7 +3,7 @@
  
 <strong> <p align = "left"> Sou um estudante do ensino médio técnico em informática. Tenho um grande interesse pela programação, com foco especial no desenvolvimento de backend utilizando Java com o Spring Framework.
 
-<p align = "left"> Embora eu ainda não tenha experiência profissional na área, estou constantemente aprendendo e me aperfeiçoando.
+<p align = "left"> Estou constantemente aprendendo e me aperfeiçoando, meu objetivo é aplicar meu conhecimento prático e teórico em um ambiente de estágio, contribuindo com a solução de problemas..
 
 <p align = "left"> O que realmente me motiva é a descoberta constante de novas tecnologias e a aplicação dessas descobertas na criação de soluções de alta qualidade. Atualmente, estou concentrando meus esforços no aprendizado do desenvolvimento web com Spring Boot, e sempre buscando expandir meu conhecimento e habilidades para continuar produzindo trabalhos excepcionais na minha área.
 </strong>
