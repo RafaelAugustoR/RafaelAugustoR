@@ -9,8 +9,9 @@
 </strong>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=radical&mode=weekly" />
-
  </div>
+
+
  
  &nbsp;
  &nbsp;
@@ -19,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-### Languages:
+## Linguagens:
 
 <img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 <img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
@@ -27,12 +28,12 @@
 
 
 
-### Databases:
+## Banco de dados:
 
 <img heigth=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
 <img heigth=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href="https://www.instagram.com/rafa.aoki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -40,8 +41,15 @@
 <a href = "mailto:rafaelaugustodev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafaelaugustorodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
+## Projetos 
+
+- [Lista de jogos](https://github.com/RafaelAugustoR/gamelist) - Uma aplicação feita para você organizar sua lista de jogos, possuindo a funcionalidade de alterar a posição do jogo conforme sua preferência. ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustoR&layout=compact" />
+  </a>
+</div>
+
