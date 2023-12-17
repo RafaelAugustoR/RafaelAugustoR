@@ -26,7 +26,7 @@
   <br><br>
 # 📊 Estatísticas
 <br>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=radical&mode=weekly"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustoR&layout=compact"/> 
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=RafaelAugustoR&theme=tokyonight&mode=weekly"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustoR&layout=compact&theme=tokyonight"/> 
 <br><br>
 
 # 🌐 Contato
