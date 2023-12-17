@@ -22,7 +22,9 @@
  <br>
  
  - [Lista de jogos](https://github.com/RafaelAugustoR/gamelist) - Uma aplicação feita para você organizar sua lista de jogos, possuindo a funcionalidade de alterar a posição do jogo conforme sua preferência. 
- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
+ ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+  - [Automação de consultas veiculares](https://github.com/RafaelAugustoR/automacao-consulta-veicular) - Uma automação feita para facilitar a consulta de processos de trânsito em andamento, fazendo desde a extração dos dados até o cadastro e organização das informações em uma planilha Excel.  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
   <br><br>
 # 📊 Estatísticas
 <br>
