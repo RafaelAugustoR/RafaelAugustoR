@@ -5,15 +5,13 @@
  
 <strong> <p align = "left"> Meu nome é Rafael, tenho 17 anos e sou um estudante de programação. Estou no terceiro ano do ensino médio técnico em informática. Tenho um grande interesse por programar e encontrar soluções, constantemente busco explorar novas tecnologias e resolver desafios.  
 
-<p align = "left">  Atualmente busco aprimorar minhas habilidades/conhecimento em linguagens como Java, Python, JavaScript e explorando frameworks como Spring Boot, Pandas e React. Também já utilizei banco de dados como PostgeSQL e MySql em projetos pessoais. Estou constantemente buscando me aperfeiçoar, seja através de cursos ou navegando pela internet. Estou em busca de oportunidades de estágio para aplicar meu conhecimento prático e teórico em ambientes de desenvolvimento, contribuindo para a resolução de problemas <br><br></p>
+<p align = "left">  Atualmente busco aprimorar minhas habilidades/conhecimento em linguagens como Java, Python e explorando frameworks como Spring Boot e Pandas. Também já utilizei banco de dados como PostgeSQL e MySql em projetos pessoais. Estou constantemente buscando me aperfeiçoar, seja através de cursos ou navegando pela internet. Estou em busca de oportunidades de estágio para aplicar meu conhecimento prático e teórico em ambientes de desenvolvimento, contribuindo para a resolução de problemas <br><br></p>
 
 <div  align="center" style="margin-bottom:100px">
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
  <br><br></div>
