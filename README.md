@@ -8,14 +8,14 @@
 <div  align="center" style="margin-bottom:100px">
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
+<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;
 <img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;
+<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;
+<img heigth=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
 <br></div>
 
 # 📊 Estatísticas
